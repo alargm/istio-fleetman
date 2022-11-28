@@ -13,3 +13,4 @@ VirtualPairProgrammers: https://virtualpairprogrammers.com/training-courses/Isti
 Aim: make Istio understandable - it's not that hard. I don't mention TCP/IP stack levels once. Or the CNCF.
 
 There will be further material added later [I'm working on this, but in slower time!]
+
